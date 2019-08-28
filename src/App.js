@@ -15,11 +15,11 @@ class App extends Component {
         </p>
     
         <p className="App-intro">
-        <a href="https://groups.google.com/forum/#!forum/mlds-healthcare-africa">Join project - Anatomical Pathology - Ectopic Classification </a>
+        <a href="https://riot.im/app/#/room/!pGHfSNOHIzpoviybUU:matrix.org">Join project - Anatomical Pathology - Ectopic Classification </a>
         </p>
       
         <p className="App-intro">
-        <a href="https://groups.google.com/forum/#!forum/mlds-healthcare-africa">Join project - Haematology - Acute Luekaemia Diagnosis Pipeline </a>
+        <a href="https://riot.im/app/#/room/!fdOOXaNriNwCZOmwoa:matrix.org">Join project - Haematology - Acute Leukemia Diagnosis Pipeline </a>
         </p>
         
       
