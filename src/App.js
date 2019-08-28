@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <div className="App-header">
+        <div class="container-fluid">
           <img src={logo} className="App-logo" alt="logo" />
           <h2>Welcome to MLDS-Healthcare-Africa</h2>
         </div>
