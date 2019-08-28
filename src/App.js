@@ -13,6 +13,14 @@ class App extends Component {
         <p className="App-intro">
         <a href="https://groups.google.com/forum/#!forum/mlds-healthcare-africa">Join the mailing list =) </a>         
         </p>
+    
+        <p className="App-intro">
+        <a href="https://groups.google.com/forum/#!forum/mlds-healthcare-africa">Join project - Anatomical Pathology - Ectopic Classification </a>
+        </p>
+      
+        <p className="App-intro">
+        <a href="https://groups.google.com/forum/#!forum/mlds-healthcare-africa">Join project - Haematology - Acute Luekaemia Diagnosis Pipeline </a>
+        </p>
         
       
       </div>
