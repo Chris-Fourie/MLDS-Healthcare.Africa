@@ -11,7 +11,7 @@ class App extends Component {
           <h2>Welcome to MLDS-Healthcare-Africa</h2>
         </div>
         <p className="App-intro">
-        <a href="https://groups.google.com/forum/#!forum/mlds-healthcare-africa">Join the mailing list - </a>         
+        <a href="https://groups.google.com/forum/#!forum/mlds-healthcare-africa">Join the mailing list =) </a>         
         </p>
         
       
