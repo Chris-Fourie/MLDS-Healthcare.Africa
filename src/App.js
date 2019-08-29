@@ -10,22 +10,22 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h2>Welcome to MLDS-Healthcare-Africa</h2>
         </div>
-        <p align="left" class="container-fluid">
-        List of Projects: 
-        </p>  
-      
+              
         <p align="left" class="container-fluid">
         <a href="https://groups.google.com/forum/#!forum/mlds-healthcare-africa">Join the mailing list =) </a>         
         </p>
-    
-        <p align="left" class="container-fluid">
-        <a href="https://riot.im/app/#/room/!pGHfSNOHIzpoviybUU:matrix.org">Join project - Anatomical Pathology - Ectopic Classification </a>
-        </p>
-      
-        <p align="left" class="container-fluid">
-        <a href="https://riot.im/app/#/room/!fdOOXaNriNwCZOmwoa:matrix.org">Join project - Haematology - Acute Leukemia Diagnosis Pipeline </a>
-        </p>
         
+        <div align="left" class="container-fluid">
+        <p align="left" class="container-fluid">
+        List of Projects: 
+        </p>  
+        <p align="left" class="container-fluid">
+        <a href="https://riot.im/app/#/room/!pGHfSNOHIzpoviybUU:matrix.org">Anatomical Pathology - Ectopic Classification </a>
+        </p>
+        <p align="left" class="container-fluid">
+        <a href="https://riot.im/app/#/room/!fdOOXaNriNwCZOmwoa:matrix.org">Haematology - Acute Leukemia Diagnosis Pipeline </a>
+        </p>
+        </div>
       
       </div>
     );
